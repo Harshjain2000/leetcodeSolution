@@ -65,7 +65,6 @@ public:
                 ans = ans + b[b[i][j]].size();
             }
         }
-        
         return ans;
     }
 };
